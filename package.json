@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4-tutorial",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Tutorial from Udemy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjhurley/bootstrap4-tutorial.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "4"
+  ],
+  "author": "William Hurley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjhurley/bootstrap4-tutorial/issues"
+  },
+  "homepage": "https://github.com/wjhurley/bootstrap4-tutorial#readme"
+}

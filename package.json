@@ -11,13 +11,15 @@
     "url": "git+https://github.com/wjhurley/bootstrap4-tutorial.git"
   },
   "keywords": [
-    "Bootstrap",
-    "4"
+    "Bootstrap 4",
   ],
   "author": "William Hurley",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wjhurley/bootstrap4-tutorial/issues"
   },
-  "homepage": "https://github.com/wjhurley/bootstrap4-tutorial#readme"
+  "homepage": "https://github.com/wjhurley/bootstrap4-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
 }

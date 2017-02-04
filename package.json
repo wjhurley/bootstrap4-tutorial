@@ -10,9 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/wjhurley/bootstrap4-tutorial.git"
   },
-  "keywords": [
-    "Bootstrap 4",
-  ],
+  "keywords": "Bootstrap 4",
   "author": "William Hurley",
   "license": "ISC",
   "bugs": {

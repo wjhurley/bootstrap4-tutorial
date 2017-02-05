@@ -1,3 +1,6 @@
+// add your custom styles here
+// to learn more about SASS, visit sass-lang.com
+
 /* startup.css */
 
 html, body {
@@ -37,7 +40,7 @@ img {
 }
 
 #stage {
-  background: url('img/stage.jpg') center center no-repeat;
+  background: url('../../img/stage.jpg') center center no-repeat;
   background-size: cover;
   color: white;
   height: 100%;

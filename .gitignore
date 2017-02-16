@@ -40,3 +40,12 @@ Thumbs.db
 ################
 node_modules/*
 .sass-cache/*
+
+# Other files #
+###############
+android-icon*
+apple-icon*
+browserconfig.xml
+favicon*
+manifest.json
+ms-icon*

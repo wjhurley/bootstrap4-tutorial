@@ -5000,6 +5000,9 @@ img {
 .feature-alt {
   background: #f0f0f0; }
 
+#feature-three a:focus, #feature-three a:hover, #feature-seven a:focus, #feature-seven a:hover {
+  color: white; }
+
 #feature-four .feature-content {
   padding: 0; }
 

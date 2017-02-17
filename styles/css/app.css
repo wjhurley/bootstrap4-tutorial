@@ -5000,7 +5000,7 @@ img {
 .feature-alt {
   background: #f0f0f0; }
 
-#feature-three a:focus, #feature-three a:hover, #feature-seven a:focus, #feature-seven a:hover {
+#feature-three a:not([href]):not([tabindex]):focus, #feature-three a:not([href]):not([tabindex]):hover, #feature-seven a:not([href]):not([tabindex]):focus, #feature-seven a:not([href]):not([tabindex]):hover {
   color: white; }
 
 #feature-four .feature-content {
